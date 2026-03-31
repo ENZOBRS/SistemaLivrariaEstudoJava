@@ -1,0 +1,15 @@
+# Compiled Java
+*.class
+bin/
+out/
+target/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# System
+.DS_Store
+Thumbs.db
